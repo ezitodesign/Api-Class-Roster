@@ -1,4 +1,4 @@
-![screenshot](Screen Shot 2022-11-22 at 10.20.43 AM.png)
+![screenshot]([Screen Shot 2022-11-22 at 10.20.43 AM.png](https://github.com/ezitodesign/Api-Class-Roster/blob/main/Screen%20Shot%202022-11-22%20at%2010.20.43%20AM.png?raw=true))
 
 # Class Roster via our API data
 
