@@ -1,3 +1,5 @@
+![screenshot](URL of image)
+
 # Class Roster via our API data
 
 ## What Is This? 
