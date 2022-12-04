@@ -1,28 +1,35 @@
 /* My Styles */
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+ 
 body{
 
-    background-color: #4c27d1;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 16px;
+    background-color: #e6ebce;
+    font-family: Abril Fatface;
+    font-size: 28px;
     line-height: 1.5;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     margin: 0;
     padding: 0;
+    text-align: center;
+    font-weight: 200px;
+   
 }
 
-
 img{
-    display: flex;
-    margin: 0 auto;
-    width: 100%;
-    height: 100%;
+    border-radius: 25px;
+    height: 300px;
+    width: 300px;
     object-fit: cover;
-    object-position: center;
-    border-radius: 10%;
-    max-width: 500px;
-    max-height: 500px;
+    border: 3px solid indianred;
 }
 
 figure{
-
+    display: inline-block;
+    height: 500px;
+    width: 500px;
+    margin: auto;
 }
+
+ 
+
