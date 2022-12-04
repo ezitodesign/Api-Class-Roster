@@ -4,24 +4,23 @@
  
 body{
 
-    background-color: #e6ebce;
+    background-color: #034b75;
     font-family: Abril Fatface;
     font-size: 28px;
     line-height: 1.5;
-    color: rgb(0, 0, 0);
+    color: indianred;
     margin: 0;
     padding: 0;
     text-align: center;
     font-weight: 200px;
-   
 }
 
+
 img{
-    border-radius: 25px;
+    border-radius: 50%;
     height: 300px;
     width: 300px;
     object-fit: cover;
-    border: 3px solid indianred;
 }
 
 figure{
@@ -31,5 +30,14 @@ figure{
     margin: auto;
 }
 
+figcaption{
+   position:relative;
+   left: 0;
+   top: 465px;
+}
  
-
+p{
+    position:relative;
+    
+    top: 450px;
+}
